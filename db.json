@@ -1,17 +1,18 @@
 {
- "messages": [
-   {"text": "Welcome to the Chatfuel Rockets!"},
-   {"text": "What are you up to?"}
- ],
-
-   "quick_replies": [
-        {
-          "title": "That's cool!",
-          "set_attributes": {
-            "feedback": "Cool!"
-          }
-        }
-]
- 
-
+   "messages":[
+      {
+         "text":"Welcome to the Chatfuel Rockets!"
+      },
+      {
+         "text":"What are you up to?"
+      }
+   ],
+   "quick_replies":[
+      {
+         "title":"That's cool!",
+         "set_attributes":{
+            "feedback":"Cool!"
+         }
+      }
+   ]
 }
