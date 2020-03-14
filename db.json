@@ -3,7 +3,7 @@
    {"text": "Welcome to the Chatfuel Rockets!"},
    {"text": "What are you up to?"}
  ],
- "quick_replies":{
+
    "quick_replies": [
         {
           "title": "That's cool!",
@@ -12,6 +12,6 @@
           }
         }
 ]
- }
+ 
 
 }
